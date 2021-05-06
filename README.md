@@ -4,22 +4,12 @@
 
 I speak English, Portuguese, Spanish and I'm currently learning French and Korean!
 
-### Languages and Tools:
-<table>
-  <tr>
-    <td>Visual Studio Code</td>
-    <td>Python</td>
-    <td>JavaScript</td>
-    <td>Rust</td>
-    </tr>
-  <tr>
-    <td>React</td>
-    <td>Node.js</td>
-    <td>SQL</td>
-  </tr>
-</table>
-
-<br/>
+### Languages:
+- Python
+- JavaScript
+- C#
+- Rust
+- Java
 
 ---
 
