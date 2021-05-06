@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-<!--
-**GabrielBG0/GabrielBG0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+  .lang{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
 
-Here are some ideas to get you started:
+</style>
+
+<h3>My name is Gabriel and I'm currently based in Brazil!</h3>
+
+<p class="lang"> I speak English, Portuguese, Spanish and I'm currently learning Franch and Korean!</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
