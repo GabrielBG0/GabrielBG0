@@ -16,6 +16,7 @@ I speak English, Portuguese, Spanish and I'm currently learning French and Korea
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+
 ### About Me:
 - 🔭 I’m currently working on [Fakenews Recognition](https://github.com/GabrielBG0/Fakenews-Recognition)
 - 🌱 I’m currently learning Rust!
@@ -23,4 +24,9 @@ I speak English, Portuguese, Spanish and I'm currently learning French and Korea
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm half Colombian
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=GabrielBG0&show_icons=true&theme=synthwave&include_all_commits=true&custom_title=My%20GitHub%20Stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="GabrielBG0's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GabrilBG0&show_icons=true&hide_border=true&theme=synthwave" />
+
+</details>
