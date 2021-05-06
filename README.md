@@ -4,9 +4,7 @@
 
 I speak English, Portuguese, Spanish and I'm currently learning French and Korean!
 
-I program in:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG0&layout=compact&theme=synthwave&custom_title=Top%20Languages)
+I program in Python, JavaScript, C#, Rust and Java!
 
 - 🔭 I’m currently working on [Fakenews Recognition](https://github.com/GabrielBG0/Fakenews-Recognition)
 - 🌱 I’m currently learning Rust!
