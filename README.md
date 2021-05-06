@@ -27,6 +27,6 @@ I speak English, Portuguese, Spanish and I'm currently learning French and Korea
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GabrielBG0's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GabrielBG0&show_icons=true&hide_border=true&theme=synthwave" />
+  <img align="left" alt="GabrielBG0's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GabrielBG0&show_icons=true&hide_border=true&theme=synthwave&custom_title=Gabriel's%20GitHub%20Stats" />
 
 </details>
