@@ -6,13 +6,17 @@ I speak English, Portuguese, Spanish and I'm currently learning French and Korea
 
 ### Languages and Tools:
 <table>
-<td>Visual Studio Code</td>
-<td>Python</td>
-<td>JavaScript</td>
-<td>Rust</td>
-<td>React</td>
-<td>Node.js</td>
-<td>SQL</td>
+  <tr>
+    <td>Visual Studio Code</td>
+    <td>Python</td>
+    <td>JavaScript</td>
+    <td>Rust</td>
+    </tr>
+  <tr>
+    <td>React</td>
+    <td>Node.js</td>
+    <td>SQL</td>
+  </tr>
 </table>
 
 <br/>
