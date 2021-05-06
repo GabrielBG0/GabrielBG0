@@ -9,9 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG0&layout=compact&theme=synthwave"/>
 </p>
 
-- 🔭 I’m currently working on ![Fakenews Recognition](https://github.com/GabrielBG0/Fakenews-Recognition)
+- 🔭 I’m currently working on [Fakenews Recognition](https://github.com/GabrielBG0/Fakenews-Recognition)
 - 🌱 I’m currently learning Rust!
-- 📫 How to reach me: ![Email](gabriel.bgs00@gmail.com), ![LinkedIn](https://www.linkedin.com/in/gabrielbgutierrez/)
+- 📫 How to reach me: [Email](gabriel.bgs00@gmail.com), [LinkedIn](https://www.linkedin.com/in/gabrielbgutierrez/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm half Colombian
 
