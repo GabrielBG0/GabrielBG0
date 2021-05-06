@@ -1,13 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-<h3>My name is Gabriel and I'm currently based in Brazil!</h3>
+### My name is Gabriel and I'm currently based in Brazil!
 
-<p>I speak English, Portuguese, Spanish and I'm currently learning French and Korean!</p>
+I speak English, Portuguese, Spanish and I'm currently learning French and Korean!
 
-<p>I program in:</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG0&layout=compact&theme=synthwave"/>
-</p>
+I program in:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG0&layout=compact&theme=synthwave&custom_title=Top%20Languages)
 
 - 🔭 I’m currently working on [Fakenews Recognition](https://github.com/GabrielBG0/Fakenews-Recognition)
 - 🌱 I’m currently learning Rust!
@@ -15,6 +13,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm half Colombian
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielBG0&show_icons=true&theme=synthwave&include_all_commits=true&custom_title=My%20GitHub%20Stats"/>
-</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=GabrielBG0&show_icons=true&theme=synthwave&include_all_commits=true&custom_title=My%20GitHub%20Stats)
