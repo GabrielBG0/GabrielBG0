@@ -4,7 +4,13 @@
 
 I speak English, Portuguese, Spanish and I'm currently learning French and Korean!
 
-I program in Python, JavaScript, C#, Rust and Java!
+I program in:
+- Python
+- JavaScript
+- C#
+- Rust
+- Java
+
 
 - 🔭 I’m currently working on [Fakenews Recognition](https://github.com/GabrielBG0/Fakenews-Recognition)
 - 🌱 I’m currently learning Rust!
