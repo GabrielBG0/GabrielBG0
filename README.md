@@ -18,7 +18,7 @@ I speak English, Portuguese, Spanish and I'm currently learning French and Korea
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: <gabriel.bgs00@gmail.com>, [LinkedIn](https://www.linkedin.com/in/gabrielbgutierrez/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm half Colombian
+- ⚡ Fun fact: I'm Color Blind ✖🟩🟥✖
 
 ---
 
