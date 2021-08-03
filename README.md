@@ -26,6 +26,6 @@ I speak English, Portuguese, Spanish and I'm currently learning French and Korea
   </br>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBG0)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBG0&theme=tokyonight&show_icons=true)
 
 </details>
