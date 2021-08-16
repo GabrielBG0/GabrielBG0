@@ -2,7 +2,7 @@
 
 ### My name is Gabriel and I'm currently based in Brazil!
 
-I speak English, Portuguese, Spanish and I'm currently learning French and Korean!
+I speak English, Portuguese and I'm currently learning French and Korean!
 
 ### Languages:
 - Python
