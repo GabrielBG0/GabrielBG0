@@ -14,7 +14,7 @@ I speak English, Portuguese and I'm currently learning French and Korean!
 ---
 
 ### About Me:
-- 🔭 I’m currently working on [Fakenews Recognition](https://github.com/GabrielBG0/Fakenews-Recognition)
+- 🔭 I’m currently working on Fakenews Recognition with BART
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: <gabriel.bgs00@gmail.com>, [LinkedIn](https://www.linkedin.com/in/gabrielbgutierrez/)
 - 😄 Pronouns: He/Him
