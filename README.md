@@ -7,8 +7,8 @@ I speak English, Portuguese and I'm currently learning French and Korean!
 ### Languages:
 - Python
 - JavaScript
-- C#
 - Rust
+- C#
 - Java
 
 ---
