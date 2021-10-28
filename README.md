@@ -5,7 +5,7 @@
 I speak English, Portuguese and I'm currently learning French and Korean!
 
 ### Languages:
-- Python ![icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg)
+- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 - JavaScript
 - Rust
 - C#
