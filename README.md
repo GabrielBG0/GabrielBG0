@@ -26,6 +26,6 @@ I speak English, Portuguese and I'm currently learning French and Korean!
   </br>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBG0&theme=tokyonight&show_icons=true&count_private=true&custom_title="Gabriel's Git Status")
+  ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBG0&theme=tokyonight&show_icons=true&count_private=true&custom_title=Gabriel's_git_Status)
 
 </details>
