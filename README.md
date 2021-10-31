@@ -7,7 +7,7 @@ I speak English, Portuguese and I'm currently learning French and Korean!
 ### Languages:
 - <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/Pithon.svg" width="20" /> Python
 - <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/JavaScript.svg" width="20" /> JavaScript
-- <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/JavaScript.svg" width="20" /> Rust
+- <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/Rust.svg" width="20" /> Rust
 - <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/CSharp.svg" width="20" /> C#
 - <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/Java.svg" width="20" /> Java
 
