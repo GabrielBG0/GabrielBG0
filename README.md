@@ -5,11 +5,11 @@
 I speak English, Portuguese and I'm currently learning French and Korean!
 
 ### Languages:
-- <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/SVGs/Python.svg" width="20" /> Python
-- <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/SVGs/JavaScript.svg" width="20" /> JavaScript
-- <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/SVGs/Rust.svg" width="20" /> Rust
-- <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/SVGs/CSharp.svg" width="20" /> C#
-- <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/SVGs/Java.svg" width="20" /> Java
+- <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/SVGs/Python.svg" width="15" /> Python
+- <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/SVGs/JavaScript.svg" width="15" /> JavaScript
+- <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/SVGs/Rust.svg" width="15" /> Rust
+- <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/SVGs/CSharp.svg" width="15" /> C#
+- <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/SVGs/Java.svg" width="15" /> Java
 
 ---
 
