@@ -27,5 +27,6 @@ I speak English, Portuguese and I'm currently learning French and Korean!
   <summary>:zap: GitHub Stats</summary>
 
   ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBG0&theme=tokyonight&show_icons=true&count_private=true)
+  ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG0&layout=compact&langs_count=16&theme=tokyonightcount_private=false)
 
 </details>
