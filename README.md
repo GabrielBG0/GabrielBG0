@@ -27,6 +27,6 @@ I speak English, Portuguese and I'm currently learning French and Korean!
   <summary>:zap: GitHub Stats</summary>
 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielBG0&theme=tokyonight&show_icons=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG0&layout=compact&theme=tokyonight&hide=jupyter%20notebook,shaderlabs&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG0&layout=compact&theme=tokyonight&hide=jupyter%20notebook,ShaderLabs&langs_count=8"/>
 
 </details>
