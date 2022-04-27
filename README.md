@@ -14,7 +14,7 @@ I speak English, Portuguese and I'm currently learning French and Korean!
 ---
 
 ### About Me:
-- 🔭 I’m currently working on Apollo AI, Fakenews Recognition and [Spotify Stats](https://github.com/GabrielBG0/Spotify-Stats.js)
+- 🔭 I’m currently working on Fakenews Recognition with NLP
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: <gabriel.bgs00@gmail.com>, [LinkedIn](https://www.linkedin.com/in/gabrielbgutierrez/)
 - 😄 Pronouns: He/Him
