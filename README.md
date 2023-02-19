@@ -15,7 +15,7 @@ I speak English, Portuguese and I'm currently learning French and Korean!
 
 ### About Me:
 - 🔭 I’m currently working on my Masters Degree in Machine Learning and Data Science
-- 🌱 I’m currently learning D3
+- 🌱 I’m currently learning D3.js
 - 📫 How to reach me: <gabriel.bgs00@gmail.com>, [LinkedIn](https://www.linkedin.com/in/gabrielbgutierrez/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Color Blind ✖🟩🟥✖
