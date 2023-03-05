@@ -2,7 +2,7 @@
 
 ### My name is Gabriel and I'm currently based in Brazil!
 
-I speak English, Portuguese and I'm currently learning French and Korean!
+I speak English and Portuguese!
 
 ### Languages:
 - <img src="https://raw.githubusercontent.com/GabrielBG0/GabrielBG0/main/SVGs/JavaScript.svg" width="20" /> JavaScript
@@ -14,8 +14,9 @@ I speak English, Portuguese and I'm currently learning French and Korean!
 ---
 
 ### About Me:
-- 🔭 I’m currently working on my Masters Degree in Machine Learning and Data Science
-- 🌱 I’m currently learning D3.js
+- 🔭 I'm a Software Engineer and Machine Learning Researcher with a passion for leveraging technology to solve complex problems
+- 🎓 Currently pursuing a Master's Degree in Machine Learning and Data Science at UNICAMP
+- 🌱 Currently learning D3.js to enhance my data visualization skills
 - 📫 How to reach me: <gabriel.bgs00@gmail.com>, [LinkedIn](https://www.linkedin.com/in/gabrielbgutierrez/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Color Blind ✖🟩🟥✖
@@ -23,10 +24,11 @@ I speak English, Portuguese and I'm currently learning French and Korean!
 ---
 
 <details>
-  </br>
+  <br />
   <summary>:zap: GitHub Stats</summary>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielBG0&theme=tokyonight&show_icons=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG0&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielBG0&theme=tokyonight&show_icons=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG0&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8" />
 
 </details>
+
