@@ -15,8 +15,8 @@ I speak English and Portuguese!
 
 ### About Me:
 - 🔭 I'm a Software Engineer and Machine Learning Researcher with a passion for leveraging technology to solve complex problems
-- 🎓 Currently pursuing a Master's Degree in Machine Learning and Data Science at UNICAMP
-- 🌱 Currently learning D3.js to enhance my data visualization skills
+- 🎓 Currently pursuing a Master's Degree in Machine Learning and Computer Vision at UNICAMP
+- 🌱 Currently learning MMSegmentation
 - 📫 How to reach me: <gabriel.bgs00@gmail.com>, [LinkedIn](https://www.linkedin.com/in/gabrielbgutierrez/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Color Blind ✖🟩🟥✖
