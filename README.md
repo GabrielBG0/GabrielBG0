@@ -2,7 +2,7 @@
 
 🌎 Based in Campinas, SP, Brazil  
 🎓 Master's Student @ Unicamp  
-🔧 Software Engineer | 🤖 Machine Learning Enthusiast  
+🔧 Software Engineer | 🤖 Machine Learning Researcher  
 🌐 Fluent in English and Portuguese
 
 #### About Me
