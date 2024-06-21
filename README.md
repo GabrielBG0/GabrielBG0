@@ -19,6 +19,14 @@ I'm always eager to connect with fellow developers, researchers, and enthusiasts
 
 📫 Feel free to reach out to me via email at <gabriel.bgs00@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielbgutierrez/) to stay updated on my latest projects and research endeavors. Let's code, learn, and innovate together!
 
+<details>
+  </br>
+  <summary>📄 My Articles</summary>
+  <ul>
+    <li><a href="https://www.earthdoc.org/content/papers/10.3997/2214-4609.2024101294">Applying the Transformer Architecture for Semantic Segmentation of Seismic Facies</a></li>
+  </ul>
+</details>
+
 ---
 
 <details>
