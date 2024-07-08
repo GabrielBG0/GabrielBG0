@@ -34,7 +34,7 @@ I'm always eager to connect with fellow developers, researchers, and enthusiasts
   <summary>:zap: GitHub Stats</summary>
 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielBG0&theme=tokyonight&show_icons=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG0&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG0&layout=compact&theme=tokyonight&hide=jupyter%20notebook,ShaderLab&langs_count=8" />
 
 </details>
 
