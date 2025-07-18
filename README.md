@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel Borges Gutierrez! 🚀
 
 🌎 Based in Campinas, SP, Brazil  
-🎓 Master's Student @ Unicamp  
+🎓 PhD Student @ Unicamp  
 🔧 Software Engineer | 🤖 Machine Learning Researcher  
 🌐 Fluent in English and Portuguese
 
