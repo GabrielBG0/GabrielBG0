@@ -45,13 +45,3 @@ I am open to collaborations and discussions on topics related to **machine learn
     <li><a href="https://www.earthdoc.org/content/papers/10.3997/2214-4609.2024101294">Applying the Transformer Architecture for Semantic Segmentation of Seismic Facies</a></li>
   </ul>
 </details>
-
-<details>
-  <br />
-  <summary>:zap: GitHub Stats</summary>
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielBG0&theme=tokyonight&show_icons=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBG0&layout=compact&theme=tokyonight&hide=jupyter%20notebook,ShaderLab&langs_count=8" />
-
-</details>
-
