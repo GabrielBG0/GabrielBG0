@@ -42,6 +42,7 @@ I am open to collaborations and discussions on topics related to **machine learn
   </br>
   <summary>📄 My Articles</summary>
   <ul>
+    <li><a href="https://onlinelibrary.wiley.com/doi/10.1111/1365-2478.70104">On the Performance Evaluation of Deep Learning Models for Seismic Facies Segmentation</a></li>
     <li><a href="https://www.earthdoc.org/content/papers/10.3997/2214-4609.2024101294">Applying the Transformer Architecture for Semantic Segmentation of Seismic Facies</a></li>
   </ul>
 </details>
