@@ -3,7 +3,7 @@
 🌎 Based in Campinas, SP, Brazil
 🎓 PhD Student in Computer Science @ Unicamp
 🔧 Software Engineer | 🤖 Researcher in Machine Learning & Computer Vision
-🌐 Fluent in English and Portuguese | 🗾 Studying Japanese (Intermediate)
+🌐 Fluent in English and Portuguese | 🗾 Studying Japanese (N5 -> N4)
 
 #### About Me
 
